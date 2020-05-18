@@ -1,0 +1,25 @@
+Password : ?????????
+Charset : <unspecified>
+PasswordUCS2 : ?????????
+Timeout : -1
+Username : CONTROL
+PasswordUTF8 : ?????????
+InstallationPath : /sapdb/W9X/db
+sdba : sdba
+LBACKUP : /sapdb/W9X/saparch/data_backup
+DBAPW : password 
+Nodename : hostname
+SID : W9X
+GlobalDataPath : /sapdb/data
+DB : MAXDB
+Dbname : W9X
+DBA : control
+Cachelimit : -1
+Sqlmode : <unspecified>
+Isolation : -1
+GlobalProgramsPath : /sapdb/programs
+LSCRIPTS : /sapdb/W9X/saparch/scripts
+PrivateDataPath : /sapdb/W9X/data
+UsernameUCS2 : C.O.N.T.R.O.L. . . . . . . . . . . . . . . . . . . . . . . . . .
+Key : sdba
+CID : XSD
